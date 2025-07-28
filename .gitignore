@@ -1,0 +1,15 @@
+dataset
+fist-week/data
+second-week/data
+
+# 保存的模型文件
+*.pth
+*.pt
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# IDE 配置文件
+.idea/
+.vscode/
